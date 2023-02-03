@@ -1,3 +1,1 @@
-<# align="center"
-Hi, I'm SkillFP
->
+# Hi, I'm SkillFP
