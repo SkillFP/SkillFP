@@ -8,7 +8,7 @@ align="center">❀ Hi hi, I'm SkillFP ❀
 One "Hi" is enough, Skill.
 </h5>
 <h1>
-So you are...?
+align="center">❀ So you are...? ❀
 </h1>
 <p>
 Currently a student from UNLP, this is my first year. While I'm learning the basics about programming in college, in my free time I'll be learnin how to code HTML, CSS and JS.
