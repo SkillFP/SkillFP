@@ -11,7 +11,7 @@ One "Hi" is enough, Skill.
 ❀ So you are...? ❀
 </h1>
 <p>
-Currently a student from UNLP, this is my first year. While I'm learning the basics about programming in college, in my free time I'll be learnin how to code HTML, CSS and JS.
+Currently a student from UNLP, this is my first year. While I'm learning the basics about programming in college, in my free time I'll be learning how to code HTML, CSS and JS.
 </p>
 <p>
 In this moment I'm focusing in the Introductory Course of my carreer, but I'll be done in a month or so. Then, I'm going to make a nice presentation page of my own, stylized with NieR: Automata's overlay, my most beloved game.
