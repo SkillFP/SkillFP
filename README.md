@@ -11,8 +11,8 @@ One "Hi" is enough, Skill.
 ❀ So you are...? ❀
 </h1>
 <p>
-Currently a student from UNLP, this is my first year. While I'm learning the basics about programming in college, in my free time I'll be learning how to code HTML, CSS and JS.
+Currently a student from UNLP. While I'm learning the basics about programming in college, in my free time I'll be learning how to code in other languages.
 </p>
 <p>
-In this moment I'm focusing in the Introductory Course of my carreer, but I'll be done in a month or so. Then, once I'm done with the basics ("HTML-CSS-JS basics" repository), I'm going to make a nice presentation page of my own, stylized with NieR: Automata's overlay in a SPA style.
+In this moment I'm focusing mostly in my first year. I want to build a good base to start with and then move on to more complex concepts and projects. I don't like to rush things and I use to enjoy learning anythingg that is presented, so, I'm sure I'll be succeeding eventually.
 </p>
